@@ -1,0 +1,33 @@
+{"basics":{
+"photo":"image.jpg",
+"name":"pooja",
+"gmail":"mpoojamrrdc@gmail.com",
+"phone":"147896325",
+"address":"penumur"
+},
+"career":{
+  "info":" Seeking challenging career in Sector to get a position of responsibility, using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives  "
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,puttur",
+    "data":["2017-20","95.1"]
+  },
+  {
+  "course":"b.sc(computer)",
+  "college":"Svvdegree college,prnumur",
+  "data":["2014-17","75"]
+},
+{
+"course":"intermideate",
+"college":"mpc,penumur",
+"data":["2012-14","70"]
+},
+{
+  "course":"s.s.c",
+  "college":"zphschool,penumur",
+  "data":["2012","80"]
+}
+]
+}
